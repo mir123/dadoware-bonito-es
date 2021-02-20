@@ -36,14 +36,6 @@ Usar las palabras más comunes junto a las proporciones mencionadas parece gener
 
 He tratado de quitar palabras feas y potencialmente controversiales de la lista. El corpus es la Lista de frecuencias de palabras del castellano de Chile de Sadowsky y Martínez [^0], por lo que hay todavía un cierto sesgo chileno en la lista, aún después de limpiar algunas palabras arcanas. He incluido parte del material fuente de manera tal que si se quitan más palabras tengamos con qué llenar los vacíos.
 
-[^0] Copyright © 2006, 2012 Scott Sadowsky & Ricardo Martínez Gamboa
+_**[^0]** Copyright © 2006, 2012 Scott Sadowsky & Ricardo Martínez Gamboa
 Todos los derechos reservados. All Rights Reserved.
-Inscripción No 154.198 (Chile).
-
-Copyright (C) 2021 Mir Rodriguez Lombardo
-Permission is granted to copy, distribute and/or modify this document
-under the terms of the GNU Free Documentation License, Version 1.3
-or any later version published by the Free Software Foundation;
-with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
-A copy of the license is included in the section entitled "GNU
-Free Documentation License".
+Inscripción No 154.198 (Chile)._
