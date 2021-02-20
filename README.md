@@ -13,7 +13,7 @@ This particular word list was generated using a corpus of the most common words 
 
 These proportions were derived from some tagged corpora of Spanish texts. Using the top most used words plus the above proportions seems to generate prettier and more readable passphrases.
 
-I have tried to remove nasty and potentially controversial words from the list. The corpus is the Sadowsky and Martínez word frequency list of Chilean Spanish[^0], therefore there is still a certain Chilean slant to the list, even after cleaning up some arcane words. I have included some of the source material so that if more words are removed the source can be used to fill in the blanks.
+I have tried to remove nasty and potentially controversial words from the list. The corpus is the Sadowsky and Martínez word frequency list of Chilean Spanish[^0], therefore there is still a certain Chilean slant to the list, even after cleaning up some arcane words. I have included some of the source material so that if more words are removed the source can be used to fill in the blanks. This includes some "glue" words that maybe can be prescriptively added somehow.
 
 ---
 
@@ -32,7 +32,7 @@ Estas proporciones fueron derivadas de algunos corpora etiquetados de textos en 
 
 Usar las palabras más comunes junto a las proporciones mencionadas parece generar frases de paso bonitas y más o menos legibles.
 
-He tratado de quitar palabras feas y potencialmente controversiales de la lista. El corpus es la Lista de frecuencias de palabras del castellano de Chile de Sadowsky y Martínez [^0], por lo que hay todavía un cierto sesgo chileno en la lista, aún después de limpiar algunas palabras arcanas. He incluido parte del material fuente de manera tal que si se quitan más palabras tengamos con qué llenar los vacíos.
+He tratado de quitar palabras feas y potencialmente controversiales de la lista. El corpus es la Lista de frecuencias de palabras del castellano de Chile de Sadowsky y Martínez [^0], por lo que hay todavía un cierto sesgo chileno en la lista, aún después de limpiar algunas palabras arcanas. He incluido parte del material fuente de manera tal que si se quitan más palabras tengamos con qué llenar los vacíos. Se incluyen aquí algunas palabras "goma" que quizá puedan ser prescriptivamente agregadas de alguna manera.
 
 _**[^0]** Copyright © 2006, 2012 Scott Sadowsky & Ricardo Martínez Gamboa
 Todos los derechos reservados. All Rights Reserved.
