@@ -1,6 +1,6 @@
 # dadoware-bonito-es
 
-This a new word list for generating prettier (and hopefully then more memorable) Spanish language passphrases using (diceware)[https://theworld.com/~reinhold/diceware.html].
+This a new word list for generating prettier (and hopefully then more memorable) Spanish language passphrases using [diceware](https://theworld.com/~reinhold/diceware.html).
 
 This includes a list of 7776 words with corresponding five-dice throw results. You can of course generate passphrases any way you want, but throwing dice alone in a room is a very secure way to do it.
 
@@ -19,7 +19,7 @@ I have tried to remove nasty and potentially controversial words from the list. 
 
 ---
 
-Esta es una nueva lista de palabras para generar frases de paso más bonitas (y con suerte más memorables) usando (diceware)[https://theworld.com/~reinhold/diceware_en_espanolA.htm] o dadoware.
+Esta es una nueva lista de palabras para generar frases de paso más bonitas (y con suerte más memorables) usando [diceware](https://theworld.com/~reinhold/diceware_en_espanolA.htm) o dadoware.
 
 Se incluye una lista de 7776 palabras con sus correspondientes resultados del tiro de 5 dados. Puedes por supuesto usar esta lista para generar frases de paso como quieras, pero tirar dados a solas en un cuarto es una manera muy segura de hacerlo.
 
