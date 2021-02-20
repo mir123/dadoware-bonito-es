@@ -2,7 +2,7 @@
 
 This a new word list for generating prettier (and hopefully then more memorable) Spanish language passphrases using [diceware](https://theworld.com/~reinhold/diceware.html).
 
-This includes a list of 7776 words with corresponding five-dice throw results. You can of course generate passphrases any way you want, but throwing dice alone in a room is a very secure way to do it.
+This includes a list of 7776 words with corresponding five-dice throw results. You can of course generate passphrases any way you want, but throwing dice alone in a room is a very secure way to do it. It's probably a good idea to conjugate any verbs that appear to make the phrase even more readable. I may write a specific prescriptive way to do that.
 
 This particular word list was generated using a corpus of the most common words in Spanish, assembled using a proportion of nouns, verbs, adjectives and adverbs similar to that found in written texts, specifically:
 
@@ -19,7 +19,7 @@ I have tried to remove nasty and potentially controversial words from the list. 
 
 Esta es una nueva lista de palabras para generar frases de paso más bonitas (y con suerte más memorables) usando [diceware](https://theworld.com/~reinhold/diceware_en_espanolA.htm) o dadoware.
 
-Se incluye una lista de 7776 palabras con sus correspondientes resultados del tiro de 5 dados. Puedes por supuesto usar esta lista para generar frases de paso como quieras, pero tirar dados a solas en un cuarto es una manera muy segura de hacerlo.
+Se incluye una lista de 7776 palabras con sus correspondientes resultados del tiro de 5 dados. Puedes por supuesto usar esta lista para generar frases de paso como quieras, pero tirar dados a solas en un cuarto es una manera muy segura de hacerlo. Puede ser una buena idea conjugar los verbos que aparezcan para hacer la frase aún más legible. Puede que en algún momento escriba una manera específica prescriptiva de hacer esto.
 
 Esta lista de palabras en particular fue generada usando un corpus de las palabras más comunes en español, ensamblado usando una proporción de sustantivos, verbos, adjetivos y adverbios similar a la que se encuentra en textos escritos, específicamente:
 
