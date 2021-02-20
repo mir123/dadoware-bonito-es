@@ -11,9 +11,7 @@ This particular word list was generated using a corpus of the most common words 
 - adjectives: 17% (1322 words)
 - adverbs: 5% (389 words)
 
-These proportions was derived from some tagged corpora of Spanish texts.
-
-Using the top most used words plus the above proportions seem to generate pretty and kind of readable passphrases.
+These proportions were derived from some tagged corpora of Spanish texts. Using the top most used words plus the above proportions seems to generate prettier and more readable passphrases.
 
 I have tried to remove nasty and potentially controversial words from the list. The corpus is the Sadowsky and Martínez word frequency list of Chilean Spanish[^0], therefore there is still a certain Chilean slant to the list, even after cleaning up some arcane words. I have included some of the source material so that if more words are removed the source can be used to fill in the blanks.
 
